@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/font/RobotoBlack.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/font/RobotoBlackItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/font/RobotoBold.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/font/RobotoBoldItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-Italic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-Light.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-LightItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-Medium.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-MediumItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-Regular.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-Thin.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/Roboto-ThinItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/RobotoCondensed-Bold.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/RobotoCondensed-BoldItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/RobotoCondensed-Italic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/RobotoCondensed-Light.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/RobotoCondensed-LightItalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/fonts/RobotoCondensed-Regular.ttf" charset="UTF-8" />
+  </component>
+</project>
